@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+        <title>会员列表</title>
+
+        <link href="<@@$smarty.const.ADMIN_CSS_URL@@>mine.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+        <!--
+        “{}”标记与 Smarty的标记有冲突的解决：
+        ① 内容左右设置空格
+        ② {literal}内部代码不被smarty解析{/literal}
+        ③ 设置smarty的标记符号为其他内容
+        ④ 标记内容不在同一行
+        -->
+        <style>
+            .tr_color{
+                background-color: #9F88FF}
+        </style>
+        <div class="div_head">
+            <span>
+                <span style="float: left;">当前位置是：团购管理-》团购列表</span>
+                <span style="float: right; margin-right: 8px; font-weight: bold;">
+                    <a style="text-decoration: none;" href="<@@$smarty.const.__CONTROLLER__@@>/tianjia">【添加团购】</a>
+                </span>
+            </span>
+        </div>
+        <div></div>
+        <div class="div_search">
+            <span>
+                <form action="<@@$smarty.const.__SELF__@@>" method="post">
+                    <select name="category_id" style="width: 100px;">
+                        <option <@@if $post@@>selected="selected"<@@/if@@> value="0">选择分类</option>
+                        <@@foreach $category_info as $v@@>
+                        <option <@@if $v.category_id==$post.category_id@@>selected="selected"<@@/if@@> value="<@@$v.category_id@@>"><@@"&nbsp;&nbsp;"|str_repeat:$v.level@@><@@$v.category_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    <select name="city_id" style="width: 100px;">
+                        <option <@@if $post@@>selected="selected"<@@/if@@> value="0">选择城市</option>
+                        <@@foreach $city_info as $v@@>
+                        <option <@@if $v.city_id==$post.city_id@@>selected="selected"<@@/if@@> value="<@@$v.city_id@@>"><@@"&nbsp;&nbsp;"|str_repeat:$v.level@@><@@$v.city_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    <select name="seller_id" style="width: 100px;">
+                        <option <@@if $post@@>selected="selected"<@@/if@@> value="0">选择商家</option>
+                        <@@foreach $seller_info as $v@@>
+                        <option  <@@if $v.seller_id==$post.seller_id@@>selected="selected"<@@/if@@> value="<@@$v.seller_id@@>"><@@$v.seller_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    <input value="查询" type="submit" />
+                </form>
+            </span>
+        </div>
+        <div style="font-size: 13px; margin: 10px 5px;">
+            <table class="table_a" border="1" width="100%">
+                <tbody><tr style="font-weight: bold;">
+                        <td>团购ID</td>
+                        <td>团购名称</td>
+                        <td>团购分类</td>
+                        <td>团购城市</td>
+                        <td>商家名字</td>
+                        <td>购买件数</td>
+                        <td>成团数量</td>
+                        <td>预备数量</td>
+                        <td>市场价</td>
+                        <td>团购价</td>
+                        <td>创建时间</td>
+                        <td>截止时间</td>
+                        <td>今日推荐</td>
+                        <td>图片</td>
+                        <td align="center" colspan="2" style='text-align:center'>操作</td>
+                    </tr>
+                    <@@foreach $info as $k => $v@@>
+                    <tr id="product1">
+                        <td><@@*$v@iteration*@@><@@$v.gro_id@@></td>
+                        <td><a href="#"><@@$v.gro_name@@></a></td>
+                        <td><@@$v.category_name@@></td>
+                        <td><@@$v.city_name@@></td>
+                        <td><@@$v.seller_name@@></td>
+                        <td><@@$v.purchase_num@@></td>
+                        <td><@@$v.start_num@@></td>
+                        <td><@@$v.gro_num@@></td>
+                        <td><@@$v.market_price@@></td>
+                        <td><@@$v.shop_price@@></td>
+                        <td><@@$v.insert_time|date_format:"%D"@@></td>
+                        <td><@@$v.deadline|date_format:"%D"@@></td>
+                        <td>
+                            <@@if $v.is_today==1@@>是
+                            <@@else@@>否
+                            <@@/if@@>
+                        </td>
+                        <td><img src="<@@$smarty.const.SITE_URL@@><@@$v.thumb_img@@>" height="60" width="60"></td>
+                        <td><a href="<@@$smarty.const.__CONTROLLER__@@>/upd/gro_id/<@@$v.gro_id@@>">修改</a></td>
+                        <td><a href="<@@$smarty.const.__CONTROLLER__@@>/del/gro_id/<@@$v.gro_id@@>" onclick="javascript: return confirm('您确定要删除吗？')">删除</a></td>
+                    </tr>
+                    <@@/foreach@@>
+                    <tr>
+                        <td colspan="20" style="text-align: center;">
+                            <@@$pagelist@@>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+[ 2015-05-06T00:08:37+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T00:09:00+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T00:10:04+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T00:11:37+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/element.js
+ERR: 非法操作:element.js
+
+[ 2015-05-06T00:11:44+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T00:34:51+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T08:59:10+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T10:04:25+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T10:05:52+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Home/User/login.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-06T20:03:33+08:00 ] 127.0.0.1 /nuomi/nuomi/index.php/Goods/element.js
+ERR: 非法操作:element.js
+

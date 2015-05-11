@@ -1,0 +1,579 @@
+[ 2015-05-09T08:05:17+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T08:50:25+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T08:50:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/dp.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/dp_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/element.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/monkey.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/basecss_c52cdd0.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_3153de2.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/rt.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_60f99c4.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/console_6e71f65.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/jquery_9339fee.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/mod_e56bbba.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_389a7cb.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_9d3ba44.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_60f99c4.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/basecss_c52cdd0.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_3153de2.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/mod_e56bbba.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/jquery_9339fee.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/console_6e71f65.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_389a7cb.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_9d3ba44.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:51:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T08:56:33+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T09:54:31+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T09:54:38+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:55:04+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:55:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:57:22+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T09:57:25+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:58:23+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T09:58:26+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:58:30+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T09:59:14+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T09:59:17+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T10:00:13+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T10:00:16+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/dp.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/element.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/monkey.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/dp_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/basecss_c52cdd0.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_3153de2.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/jquery_9339fee.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/console_6e71f65.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_60f99c4.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/mod_e56bbba.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/rt.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_389a7cb.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_9d3ba44.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog_002.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/alog.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/basecss_c52cdd0.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_3153de2.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_60f99c4.css
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/mod_e56bbba.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/jquery_9339fee.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/console_6e71f65.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pc_sd_389a7cb.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/topbrand_9d3ba44.js
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T13:00:08+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T17:13:39+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/jquery-1.js
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/jquery-1.js
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:08:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:36+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:36+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:36+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/jquery-1.js
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:36+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:37+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/jquery-1.js
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:09:37+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:19:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:19:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:19:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:19:54+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:20:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:20:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:20:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:20:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:27:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/order/%E7%AB%8B%E5%8D%B3%E6%94%AF%E4%BB%98_files/jquery-1.7.1.min_229476e.js
+ERR: 非法操作:立即支付_files
+
+[ 2015-05-09T19:27:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/order/%E7%AB%8B%E5%8D%B3%E6%94%AF%E4%BB%98_files/base.min_e880ef3.js
+ERR: 非法操作:立即支付_files
+
+[ 2015-05-09T19:27:54+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/order/%E7%AB%8B%E5%8D%B3%E6%94%AF%E4%BB%98_files/base.min_e880ef3.js
+ERR: 非法操作:立即支付_files
+
+[ 2015-05-09T19:39:33+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-09T19:39:40+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:39:40+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:39:40+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:39:41+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:40:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:40:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:40:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:40:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:40:37+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:40:37+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:40:37+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:40:38+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:41:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/v.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:41:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/hm.txt
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:41:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/hm.txt
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:41:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/pixel.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:41:48+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/hm.txt
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:41:48+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/v.htm
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:41:49+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/hm.txt
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:41:49+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/pixel.htm
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:43:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/element.js
+ERR: 非法操作:element.js
+
+[ 2015-05-09T19:43:29+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:42+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:42+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:43+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:44+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:44+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:44+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:47+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:47+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:48+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:49+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:49+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:49+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:50+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:50+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:50+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:51+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/hm.txt
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:51+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/v.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:43:51+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B2%BE%E9%80%89%E5%93%81%E7%89%8C_files/pixel.htm
+ERR: 非法操作:精选品牌_files
+
+[ 2015-05-09T19:44:00+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:00+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:00+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:14+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:14+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:14+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:23+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:41+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:41+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:44:41+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:45:03+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/hm.txt
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:45:03+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/v.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:45:04+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/pixel.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:45:27+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/v.htm
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:45:27+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/hm.txt
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:45:27+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E8%B4%AD%E7%89%A9_files/pixel.htm
+ERR: 非法操作:糯米购物_files
+
+[ 2015-05-09T19:45:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/hm.txt
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:45:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/v.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:45:47+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%8D%95_files/pixel.htm
+ERR: 非法操作:今日新单_files
+
+[ 2015-05-09T19:46:04+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:04+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:04+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:25+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/hm.txt
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:25+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/v.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:25+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E7%94%B5%E5%BD%B1_files/pixel.htm
+ERR: 非法操作:糯米电影_files
+
+[ 2015-05-09T19:46:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:46:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:46:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:09+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:09+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:09+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:09+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:52+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:52+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T19:47:53+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:02:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/hotel
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\7ed7b47e40687e4e56332bfd20491c25e14a2d5d.file.hotel.html.php
+
+[ 2015-05-09T20:18:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:18:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:18:45+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:18:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:25:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/v.htm
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:25:06+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:25:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/hm.txt
+ERR: 非法操作:糯米酒店_files
+
+[ 2015-05-09T20:25:07+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/Index/%E7%B3%AF%E7%B1%B3%E9%85%92%E5%BA%97_files/pixel.htm
+ERR: 非法操作:糯米酒店_files
+

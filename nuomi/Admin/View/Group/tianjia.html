@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>添加团购</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <link href="<@@$smarty.const.ADMIN_CSS_URL@@>mine.css" type="text/css" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <div class="div_head">
+            <span>
+                <span style="float:left">当前位置是：团购管理-》添加团购信息</span>
+                <span style="float:right;margin-right: 8px;font-weight: bold">
+                    <a style="text-decoration: none" href="<@@$smarty.const.__CONTROLLER__@@>/showlist">【返回】</a>
+                </span>
+            </span>
+        </div>
+        <div></div>
+
+        <div style="font-size: 13px;margin: 10px 5px">
+            <form action="<@@$smarty.const.__SELF__@@>" method="post" enctype="multipart/form-data">
+            <table border="1" width="100%" class="table_a">
+                <tr>
+                    <td>团购名称</td>
+                    <td><input type="text" name="gro_name" /></td>
+                </tr>
+                <tr>
+                    <td>团购城市</td>
+                    <td>
+                    <select name="city_id">
+                        <@@foreach $city_info as $k => $v@@>
+                        <option value="<@@$v.city_id@@>"><@@"&nbsp;&nbsp;"|str_repeat:$v.level@@><@@$v.city_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>团购分类</td>
+                    <td>
+                    <select name="category_id">
+                        <@@foreach $category_info as $k => $v@@>
+                        <option value="<@@$v.category_id@@>"><@@"&nbsp;&nbsp;"|str_repeat:$v.level@@><@@$v.category_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>商家</td>
+                    <td>
+                    <select name="seller_id">
+                        <@@foreach $seller_info as $k => $v@@>
+                        <option value="<@@$v.seller_id@@>"><@@$v.seller_name@@></option>
+                        <@@/foreach@@>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>成团数量</td>
+                    <td><input type="text" name="start_num" /></td>
+                </tr>
+                <tr>
+                    <td>预备数量</td>
+                    <td><input type="text" name="gro_num" /></td>
+                </tr>
+                <tr>
+                    <td>市场价</td>
+                    <td><input type="text" name="market_price" /></td>
+                </tr>
+                <tr>
+                    <td>团购价</td>
+                    <td><input type="text" name="shop_price" /></td>
+                </tr>
+                <tr>
+                    <td>截止时间</td>
+                    <td><@@html_select_date prefix='deadline' end_year='+1' reverse_years=true@@></td>
+                </tr>
+                <tr>
+                    <td>是否今日</td>
+                    <td>
+                        <input type="radio" value="1" name="is_today" />是
+                        <input type="radio" value="0" name="is_today" />否
+                    </td>
+                </tr>
+                <tr>
+                    <td>图片</td>
+                    <td><input type="file" name="ori_img" /></td>
+                </tr>
+                <tr>
+                    <td>团购详细描述</td>
+                    <td>
+                        <textarea name="gro_desc"></textarea>
+                    </td>
+                </tr>
+                <input type="hidden" name="insert_time" value="<@@$smarty.now@@>">
+                <input type="hidden" name="mg_id" value="<@@$smarty.session.admin_id@@>">
+                
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="添加" />
+                    </td>
+                </tr>  
+            </table>
+            </form>
+        </div>
+    </body>
+</html>

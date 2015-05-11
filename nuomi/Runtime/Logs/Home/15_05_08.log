@@ -1,0 +1,1341 @@
+[ 2015-05-08T08:12:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T08:13:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:13:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:13:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:27:55+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:27:55+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:27:55+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T08:28:13+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/rt.js
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T08:28:13+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T08:40:50+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/rt.js
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T08:40:51+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T08:44:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T09:45:50+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/order
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-05-08T09:49:33+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/js.min.js
+ERR: 无法加载控制器:Js.min.js
+
+[ 2015-05-08T09:49:33+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/js.min.js
+ERR: 无法加载控制器:Js.min.js
+
+[ 2015-05-08T09:49:45+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:49:45+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:49:46+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:30+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:31+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:31+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:59+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:52:59+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:33+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:33+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:33+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:38+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:38+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:53:38+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E9%A1%B5_files/common_sync_js_0_e0e3ff6.js
+ERR: 非法操作:订单详情页_files
+
+[ 2015-05-08T09:54:15+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/rt.js
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T09:54:15+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Order/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8%E9%A1%B5_files/pixel.htm
+ERR: 非法操作:订单列表页_files
+
+[ 2015-05-08T09:56:25+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/User/login
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'where clause'
+
+[ 2015-05-08T12:33:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T12:33:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T15:25:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group
+ERR: 模板不存在:D:/00/tp/nuomi3/nuomi/Home/View/Group/index.html
+
+[ 2015-05-08T15:26:34+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/detail
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nuomi.nm_group' doesn't exist
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLgetscript
+ERR: 非法操作:MEDIA_URLgetscript
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLapi
+ERR: 非法操作:MEDIA_URLapi
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLapi
+ERR: 非法操作:MEDIA_URLapi
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLgetscript
+ERR: 非法操作:MEDIA_URLgetscript
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(2)
+ERR: 非法操作:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource
+ERR: 非法操作:MEDIA_URLsaved_resource
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(1)
+ERR: 非法操作:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(1)
+ERR: 非法操作:MEDIA_URLtimg(1)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(3)
+ERR: 非法操作:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(2)
+ERR: 非法操作:MEDIA_URLtimg(2)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(5)
+ERR: 非法操作:MEDIA_URLtimg(5)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(3)
+ERR: 非法操作:MEDIA_URLtimg(3)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(4)
+ERR: 非法操作:MEDIA_URLtimg(4)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg
+ERR: 非法操作:MEDIA_URLtimg
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(7)
+ERR: 非法操作:MEDIA_URLtimg(7)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(8)
+ERR: 非法操作:MEDIA_URLtimg(8)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(6)
+ERR: 非法操作:MEDIA_URLtimg(6)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(9)
+ERR: 非法操作:MEDIA_URLtimg(9)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(12)
+ERR: 非法操作:MEDIA_URLtimg(12)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(10)
+ERR: 非法操作:MEDIA_URLtimg(10)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(13)
+ERR: 非法操作:MEDIA_URLtimg(13)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(15)
+ERR: 非法操作:MEDIA_URLtimg(15)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(11)
+ERR: 非法操作:MEDIA_URLtimg(11)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(14)
+ERR: 非法操作:MEDIA_URLtimg(14)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(16)
+ERR: 非法操作:MEDIA_URLtimg(16)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(18)
+ERR: 非法操作:MEDIA_URLtimg(18)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(17)
+ERR: 非法操作:MEDIA_URLtimg(17)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(19)
+ERR: 非法操作:MEDIA_URLtimg(19)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(21)
+ERR: 非法操作:MEDIA_URLtimg(21)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(20)
+ERR: 非法操作:MEDIA_URLtimg(20)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(23)
+ERR: 非法操作:MEDIA_URLtimg(23)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(22)
+ERR: 非法操作:MEDIA_URLtimg(22)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(24)
+ERR: 非法操作:MEDIA_URLtimg(24)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(25)
+ERR: 非法操作:MEDIA_URLtimg(25)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(26)
+ERR: 非法操作:MEDIA_URLtimg(26)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(28)
+ERR: 非法操作:MEDIA_URLtimg(28)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(27)
+ERR: 非法操作:MEDIA_URLtimg(27)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(29)
+ERR: 非法操作:MEDIA_URLtimg(29)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(30)
+ERR: 非法操作:MEDIA_URLtimg(30)
+
+[ 2015-05-08T15:29:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(31)
+ERR: 非法操作:MEDIA_URLtimg(31)
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource
+ERR: 非法操作:MEDIA_URLsaved_resource
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLapi
+ERR: 非法操作:MEDIA_URLapi
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(2)
+ERR: 非法操作:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(1)
+ERR: 非法操作:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(3)
+ERR: 非法操作:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T15:30:47+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLgetscript
+ERR: 非法操作:MEDIA_URLgetscript
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLapi
+ERR: 非法操作:MEDIA_URLapi
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLgetscript
+ERR: 非法操作:MEDIA_URLgetscript
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(2)
+ERR: 非法操作:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(1)
+ERR: 非法操作:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource
+ERR: 非法操作:MEDIA_URLsaved_resource
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(1)
+ERR: 非法操作:MEDIA_URLtimg(1)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(2)
+ERR: 非法操作:MEDIA_URLtimg(2)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg
+ERR: 非法操作:MEDIA_URLtimg
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(4)
+ERR: 非法操作:MEDIA_URLtimg(4)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(6)
+ERR: 非法操作:MEDIA_URLtimg(6)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLsaved_resource(3)
+ERR: 非法操作:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(8)
+ERR: 非法操作:MEDIA_URLtimg(8)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(5)
+ERR: 非法操作:MEDIA_URLtimg(5)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(9)
+ERR: 非法操作:MEDIA_URLtimg(9)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(3)
+ERR: 非法操作:MEDIA_URLtimg(3)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(7)
+ERR: 非法操作:MEDIA_URLtimg(7)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(10)
+ERR: 非法操作:MEDIA_URLtimg(10)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(11)
+ERR: 非法操作:MEDIA_URLtimg(11)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(13)
+ERR: 非法操作:MEDIA_URLtimg(13)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(12)
+ERR: 非法操作:MEDIA_URLtimg(12)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(14)
+ERR: 非法操作:MEDIA_URLtimg(14)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(15)
+ERR: 非法操作:MEDIA_URLtimg(15)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(18)
+ERR: 非法操作:MEDIA_URLtimg(18)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(17)
+ERR: 非法操作:MEDIA_URLtimg(17)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(16)
+ERR: 非法操作:MEDIA_URLtimg(16)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(19)
+ERR: 非法操作:MEDIA_URLtimg(19)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(20)
+ERR: 非法操作:MEDIA_URLtimg(20)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(22)
+ERR: 非法操作:MEDIA_URLtimg(22)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(21)
+ERR: 非法操作:MEDIA_URLtimg(21)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(23)
+ERR: 非法操作:MEDIA_URLtimg(23)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(24)
+ERR: 非法操作:MEDIA_URLtimg(24)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(25)
+ERR: 非法操作:MEDIA_URLtimg(25)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(27)
+ERR: 非法操作:MEDIA_URLtimg(27)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(26)
+ERR: 非法操作:MEDIA_URLtimg(26)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(28)
+ERR: 非法操作:MEDIA_URLtimg(28)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(29)
+ERR: 非法操作:MEDIA_URLtimg(29)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(30)
+ERR: 非法操作:MEDIA_URLtimg(30)
+
+[ 2015-05-08T15:30:48+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/group/MEDIA_URLtimg(31)
+ERR: 非法操作:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:17:23+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:17:24+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:31:05+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:31:06+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:31:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:31:26+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:41:43+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:41:44+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:41:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:41:58+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:50:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLapi
+ERR: 无法加载控制器:MEDIA_URLapi
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(2)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(2)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource
+ERR: 无法加载控制器:MEDIA_URLsaved_resource
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(3)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(3)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLsaved_resource(1)
+ERR: 无法加载控制器:MEDIA_URLsaved_resource(1)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLgetscript
+ERR: 无法加载控制器:MEDIA_URLgetscript
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg
+ERR: 无法加载控制器:MEDIA_URLtimg
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(4)
+ERR: 无法加载控制器:MEDIA_URLtimg(4)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(2)
+ERR: 无法加载控制器:MEDIA_URLtimg(2)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(5)
+ERR: 无法加载控制器:MEDIA_URLtimg(5)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(1)
+ERR: 无法加载控制器:MEDIA_URLtimg(1)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(6)
+ERR: 无法加载控制器:MEDIA_URLtimg(6)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(3)
+ERR: 无法加载控制器:MEDIA_URLtimg(3)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(7)
+ERR: 无法加载控制器:MEDIA_URLtimg(7)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(8)
+ERR: 无法加载控制器:MEDIA_URLtimg(8)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(9)
+ERR: 无法加载控制器:MEDIA_URLtimg(9)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(10)
+ERR: 无法加载控制器:MEDIA_URLtimg(10)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(13)
+ERR: 无法加载控制器:MEDIA_URLtimg(13)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(12)
+ERR: 无法加载控制器:MEDIA_URLtimg(12)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(11)
+ERR: 无法加载控制器:MEDIA_URLtimg(11)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(14)
+ERR: 无法加载控制器:MEDIA_URLtimg(14)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(15)
+ERR: 无法加载控制器:MEDIA_URLtimg(15)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(16)
+ERR: 无法加载控制器:MEDIA_URLtimg(16)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(17)
+ERR: 无法加载控制器:MEDIA_URLtimg(17)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(18)
+ERR: 无法加载控制器:MEDIA_URLtimg(18)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(19)
+ERR: 无法加载控制器:MEDIA_URLtimg(19)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(20)
+ERR: 无法加载控制器:MEDIA_URLtimg(20)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(21)
+ERR: 无法加载控制器:MEDIA_URLtimg(21)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(22)
+ERR: 无法加载控制器:MEDIA_URLtimg(22)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(23)
+ERR: 无法加载控制器:MEDIA_URLtimg(23)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(24)
+ERR: 无法加载控制器:MEDIA_URLtimg(24)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(25)
+ERR: 无法加载控制器:MEDIA_URLtimg(25)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(26)
+ERR: 无法加载控制器:MEDIA_URLtimg(26)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(27)
+ERR: 无法加载控制器:MEDIA_URLtimg(27)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(28)
+ERR: 无法加载控制器:MEDIA_URLtimg(28)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(29)
+ERR: 无法加载控制器:MEDIA_URLtimg(29)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(30)
+ERR: 无法加载控制器:MEDIA_URLtimg(30)
+
+[ 2015-05-08T17:50:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/MEDIA_URLtimg(31)
+ERR: 无法加载控制器:MEDIA_URLtimg(31)
+
+[ 2015-05-08T17:51:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T17:51:14+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-08T17:54:46+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T17:55:00+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group
+ERR: Syntax Error in template "D:/00/tp/nuomi3/nuomi/Home/View\Group\index.html"  on line 2390 "&lt;a href=&quot;&lt;@@smarty.const.__MODEL__@@&gt;/order/goods_id=101&amp;user_id=21&quot; class=&quot;btn-buy btn-buy-l j-btn-buy&quot; mon=&quot;area=buy&amp;amp;element=buyTop&amp;amp;element_type=nav&quot;&gt;立即抢购"  - Unexpected ".", expected one of: "@@>" , " "
+
+[ 2015-05-08T17:57:15+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group
+ERR: Syntax Error in template "D:/00/tp/nuomi3/nuomi/Home/View\Group\index.html"  on line 2390 "&lt;a href=&quot;&lt;@@smarty.const.__MODUEL__@@&gt;/order/goods_id=101&amp;user_id=21&quot; class=&quot;btn-buy btn-buy-l j-btn-buy&quot; mon=&quot;area=buy&amp;amp;element=buyTop&amp;amp;element_type=nav&quot;&gt;立即抢购"  - Unexpected ".", expected one of: "@@>" , " "
+
+[ 2015-05-08T18:00:39+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T18:00:45+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T18:10:49+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:12:59+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:13:03+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-08T18:16:30+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/index
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:21:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/home/index
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:21:27+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:21:40+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:24:25+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:24:38+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:25:51+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:26:02+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:27:04+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:27:11+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:27:57+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:29:17+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T18:29:28+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php
+ERR: unable to write file D:/00/tp/nuomi3/nuomi/Runtime/Cache\f6a8560c892392045fa2b565b324f34731116994.file.index.html.php
+
+[ 2015-05-08T18:29:34+08:00 ] 127.0.0.1 /nuomi3/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T22:05:55+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T22:06:16+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/group/index?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
+[ 2015-05-08T22:23:02+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-08T22:23:05+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/element.js
+ERR: 无法加载控制器:Element.js
+
+[ 2015-05-08T22:24:43+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/order/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nuomi_one.nm_aagoods' doesn't exist
+
+[ 2015-05-08T22:24:46+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/order/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nuomi_one.nm_aagoods' doesn't exist
+
+[ 2015-05-08T22:27:21+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/order/js.min.js
+ERR: 非法操作:js.min.js
+
+[ 2015-05-08T23:13:58+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-08T23:26:28+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home
+ERR: unable to write file D:/00/tp/nuomi_one/nuomi/Runtime/Cache\ff184485adc8ea83288d58e1c2c3aece7d08db07.file.index.html.php
+
+[ 2015-05-08T23:27:12+08:00 ] 127.0.0.1 /nuomi_one/nuomi/index.php/Home/group/index/tid=t10_bj_pc?s=99814e8423f60a55d490130d9a5fd2a4&tid=t10_bj_pc
+ERR: 无法加载控制器:99814e8423f60a55d490130d9a5fd2a4
+
